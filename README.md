@@ -52,11 +52,11 @@ Deployment (Render)
 
 
 
-Customer Service https://exp11-customer-service.onrender.com
+Customer Service [https://exp11-customer-service.onrender.com](https://fsd-exp11-7.onrender.com/)
 
 
 
-Order Service https://exp11-order-service.onrender.com
+Order Service https://fsd-exp11-8.onrender.com/
 
 
 

@@ -52,7 +52,7 @@ Deployment (Render)
 
 
 
-Customer Service [https://exp11-customer-service.onrender.com](https://fsd-exp11-7.onrender.com/)
+Customer Service https://fsd-exp11-7.onrender.com/
 
 
 
